@@ -1,5 +1,8 @@
 # freeCodeCampClone
 
+### Used Technologies 
+ vue ,Nuxtjs ,Vuetify 
+
 ## Build Setup
 
 ```bash
